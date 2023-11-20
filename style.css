@@ -1,0 +1,26 @@
+.top-container {
+  background-color: rgb(123, 172, 172);
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+
+
+
+}
+
+.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border: solid 20px;
+  margin-left: 220px;
+
+}
+
+.bottom-container {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  margin-left: 460px;
+}
